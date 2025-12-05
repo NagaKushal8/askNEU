@@ -1,4 +1,4 @@
-# AskNEU - MLOps Project [Team - 18]
+# AskNEU 
 
 ## Application live : https://askneu.com/
 
